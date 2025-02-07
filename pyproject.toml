@@ -39,7 +39,6 @@ dependencies = [
     "sacrebleu",
     "seaborn",
     "snowflake-connector-python[pandas]",
-    "spacy-universal-sentence-encoder",
     "statsmodels",
     "termcolor",
     "tiktoken",
